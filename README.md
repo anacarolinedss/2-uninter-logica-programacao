@@ -9,7 +9,7 @@ Este repositório contém os exercícios desenvolvidos durante a disciplina **L�
 O objetivo foi praticar conceitos fundamentais de **raciocínio lógico e programação em Python**, aplicados a problemas do dia a dia.
 
 ## 💻 Linguagem Utilizada
-- **Python **
+- **Python**
 
 ---
 
